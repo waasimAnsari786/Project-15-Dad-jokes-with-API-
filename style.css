@@ -78,6 +78,11 @@ body {
     font-size: 1.5rem;
 }
 
+.joke{
+    font-size: 1.5rem;
+    font-family: "Poppins", sans-serif;
+    font-style: italic;
+}
 /* my dad jokes end */
 
 .rough {
